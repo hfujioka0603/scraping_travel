@@ -19,4 +19,4 @@
 　https://chromedriver.chromium.org/downloads/version-selection  
 　https://qiita.com/hanzawak/items/2ab4d2a333d6be6ac760  
  ・Windowsの場合はwebdriver-managerを使用しバイナリを指定する。
-  https://stackoverflow.com/questions/29858752/error-message-chromedriver-executable-needs-to-be-available-in-the-path
+ https://stackoverflow.com/questions/29858752/error-message-chromedriver-executable-needs-to-be-available-in-the-path
